@@ -2,8 +2,11 @@ export const skills = [
     { name: 'React.js', level: 95, category: 'framework' },
     { name: 'JavaScript (ES6+)', level: 90, category: 'language' },
     { name: 'Redux', level: 85, category: 'framework' },
-    { name: 'HTML5', level: 95, category: 'language' },
-    { name: 'CSS3', level: 90, category: 'language' },
+    { name: 'HTML', level: 95, category: 'language' },
+    { name: 'CSS', level: 90, category: 'language' },
+    { name: 'Node.js', level: 90, category: 'language' },
+    { name: 'Express.js', level: 90, category: 'language' },
+    { name: 'MongoDB', level: 90, category: 'language' },
     { name: 'Tailwind CSS', level: 85, category: 'framework' },
     { name: 'Material UI', level: 88, category: 'framework' },
     { name: 'Jest', level: 75, category: 'testing' },
@@ -53,39 +56,40 @@ export  const education = [
 
  export const projects = [
     {
-      title: 'Project Name 1',
-      description: 'Brief description of your project. Explain what it does, what problem it solves, and the impact it had.',
-      technologies: ['React', 'Redux', 'Material UI', 'RESTful API'],
-      github: 'https://github.com/yourusername/project1',
-      live: 'https://project1-demo.com',
+      title: "Media Connect",
+      description: 'This is a kind of application where user can post the images with description.',
+      technologies: ["React.js" , "Node.js", "MongoDB","Express.js"],
+      github: 'https://github.com/RAKESH40-lgtm/mediaConnectReactjs.git',
+      live: null,
       highlights: [
-        'Key achievement or metric',
-        'Technical challenge solved',
-        'Performance improvement'
+        'Images are convert to using filebase64 and stored in database.',
+        'It can be view in PostView page.'
       ]
     },
     {
-      title: 'Project Name 2',
+      title: 'Laundry Service',
       description: 'Another project description highlighting your skills and the technologies you used to build it.',
-      technologies: ['React', 'JavaScript', 'Tailwind CSS', 'Node.js'],
-      github: 'https://github.com/yourusername/project2',
-      live: 'https://project2-demo.com',
+      technologies: ["React.js" , "Node.js", "MongoDB","Express.js"],
+      github: 'https://github.com/RAKESH40-lgtm/Laundry-Services.git.',
+      live: null,
       highlights: [
-        'Unique feature implemented',
-        'User impact or feedback',
-        'Code quality improvement'
+        'Full-stack application develop with team',
+        'I built create order where user can create his/her order and can see summary of order.',
+        'Send data to database through Backend(Node.js)'
       ]
     },
     {
-      title: 'Project Name 3',
-      description: 'Describe your third project, focusing on what makes it unique and the value it provides.',
-      technologies: ['React', 'Redux', 'Jest', 'CSS3'],
-      github: 'https://github.com/yourusername/project3',
-      live: null, // Set to null if no live demo available
+      title: 'FoodOrdering (React Mastery Journey)',
+      description: "Built a modern React application from scratch to deeply understand core concepts, architecture, and real-world best practices."
+,
+      technologies: ["React.js" , "HTML" , "Cascading Style Sheets (CSS)" , "JavaScript" ,"Redux.js" , "Jest" , "React testing library" ,"Tailwind CSS"],
+      github: 'https://github.com/RAKESH40-lgtm/FoodOrdering',
+      live: 'https://food-ordering-rho-plum.vercel.app/', // Set to null if no live demo available
       highlights: [
-        'Innovation or creative solution',
-        'Learning or growth achieved',
-        'Best practices implemented'
+        'Engineered a scalable React application from scratch, strengthening core fundamentals and production-level architecture skills.',
+        'Implemented dynamic routing and integrated live restaurant data (Swiggy/NamasteDev API), delivering a real-time, responsive user experience.',
+        'Optimized global state management using Redux Toolkit for efficient and maintainable data flow.',
+        'Improved application reliability by writing unit tests with Jest and React Testing Library.'
       ]
     }
   ];
