@@ -10,7 +10,7 @@ const About = () => {
                 <div className="grid md:grid-cols-2 gap-12">
                     <div className="space-y-6" style={{ fontFamily: "'IBM Plex Sans', sans-serif" }}>
                         <p className="text-lg text-gray-300 leading-relaxed">
-                            Frontend-focused software professional with ~2 years of experience building scalable,
+                            Frontend-focused software professional with nearly ~3 years of experience building scalable,
                             performance-driven web applications using React.js, Redux, Material UI, and JavaScript (ES6+).
                         </p>
                         <p className="text-lg text-gray-300 leading-relaxed">
