@@ -10,17 +10,22 @@ const About = () => {
                 <div className="grid md:grid-cols-2 gap-12">
                     <div className="space-y-6" style={{ fontFamily: "'IBM Plex Sans', sans-serif" }}>
                         <p className="text-lg text-gray-300 leading-relaxed">
-                            Frontend-focused software professional with nearly ~3 years of experience building scalable,
-                            performance-driven web applications using React.js, Redux, Material UI, and JavaScript (ES6+).
+                           I build scalable, high-performance frontend applications that improve efficiency, reduce load time, and simplify complex workflows.
                         </p>
                         <p className="text-lg text-gray-300 leading-relaxed">
-                            Proven ability to translate complex business requirements into clean, efficient user interfaces,
-                            with hands-on experience in RPA-driven and enterprise client projects, delivering measurable
-                            improvements in performance, load time, and data latency.
+                           With nearly 3 years of experience as a Frontend Developer at VarchAi, I specialize in React.js, Redux, JavaScript (ES6+), Material UI, and REST API integration. I work at the intersection of UI engineering and process automation, particularly within RPA-driven and enterprise-grade systems.
                         </p>
                         <p className="text-lg text-gray-300 leading-relaxed">
-                            Experienced collaborator with a strong focus on usability, state management optimization,
-                            and secure, high-quality frontend development.
+                          One project that shaped my approach was contributing to a client engagement for ZIMDEF (Zimbabwe), where we streamlined SAP Business Partner creation. By refactoring legacy systems and implementing optimized Redux-based state management, I helped reduce processing time by 30%, cut application load time by 20%, and decreased data latency by 15%. I focus on clean architecture, reusable components, secure source code practices, and performance optimization—ensuring applications are not just functional but efficient and production-ready.
+                        </p>
+                        <p className="text-lg text-gray-300 leading-relaxed">
+                          Earlier, during my Full Stack Developer training at The 10x Academy, I built two MERN stack applications, strengthening my backend fundamentals with Node.js, Express, and MongoDB.
+                        </p>
+                        <p className="text-lg text-gray-300 leading-relaxed">
+                          One project that shaped my approach was contributing to a client engagement for ZIMDEF (Zimbabwe), where we streamlined SAP Business Partner creation. By refactoring legacy systems and implementing optimized Redux-based state management, I helped reduce processing time by 30%, cut application load time by 20%, and decreased data latency by 15%. I focus on clean architecture, reusable components, secure source code practices, and performance optimization—ensuring applications are not just functional but efficient and production-ready.
+                        </p>
+                        <p className="text-lg text-gray-300 leading-relaxed">
+                         If you’re hiring for Frontend, React, or MERN Stack roles—or building products that require scalable UI architecture—let’s connect. I’m open to Relocate and excited to collaborate on impactful technology solutions.
                         </p>
                     </div>
 
