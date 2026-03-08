@@ -44,7 +44,7 @@ export const education = [
     degree: 'Bachelor of Computer Application',
     institution: 'REVA University',
     location: 'Bengaluru',
-    period: '2018 - 2023',
+    period: '2018 - 2021',
     gpa: '8.31'
   },
   {
