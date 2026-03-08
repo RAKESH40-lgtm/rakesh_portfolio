@@ -27,20 +27,8 @@ export const experience = [
       'Followed secure coding practices for production deployments'
 
     ]
-  },
-  {
-    company: 'The 10x Academy',
-    location: 'Remote',
-    role: 'Full stack developer (Trainee)',
-    duration: 'Feb 2022 - Mar 2023',
-    achievements: [
-      'MERN Stack Application Development: Developed 2 full-stack applications using MongoDB, Express, React, and Node.js , showcasing proficiency in both front-end and back-end development',
-      'Collaboration and Code Reviews: Worked closely with a team of professionals, actively participating in code reviews to improve coding standards and ensure project quality.',
-      'Implemented Redux-based state management, optimizing performance',
-      'Built responsive components reducing application load time by 20%',
-      'Feature Implementation and Enhancements: Successfully implemented new features and improvements, resulting in enhanced user experience and increased user engagement'
-    ]
-  },
+  }
+  
 
 ];
 

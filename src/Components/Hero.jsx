@@ -9,7 +9,7 @@ const Hero = () => {
           <div className="space-y-6 animate-fade-in">
             <div className="text-cyan-400 text-sm tracking-widest uppercase opacity-0 animate-slide-up"
               style={{ animationDelay: '0.2s', animationFillMode: 'forwards' }}>
-              Frontend Developer
+             Frontend Developer | MERN Stack | Scalable Web Applications | Immediate Joiner | Open to Relocate
             </div>
 
             <h1 className="text-6xl md:text-8xl font-bold tracking-tighter opacity-0 animate-slide-up"
