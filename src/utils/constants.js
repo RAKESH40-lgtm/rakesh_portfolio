@@ -58,13 +58,21 @@ export const education = [
     location: 'Bengaluru',
     period: '2018 - 2023',
     gpa: '8.31'
+  },
+  {
+    degree: 'Bootcamp Training',
+    institution: 'The 10x Academy',
+    location: 'Remote',
+    period: '2022 - 2023',
+    // gpa: '8.31'
   }
 ];
 
 export const certifications = [
   { name: 'McKinsey.org Forward Program', issuer: 'McKinsey & Company', date: 'December 2025' },
   { name: 'JavaScript (Basic)', issuer: 'HackerRank', date: 'August 2025' },
-  { name: 'Building Monorepos on GitHub', issuer: 'LinkedIn', date: 'June 2025' }
+  { name: 'Building Monorepos on GitHub', issuer: 'LinkedIn', date: 'June 2025' },
+  { name: 'Full Stack Web Development', issuer: 'The 10x Academy', date: 'Aug 2022' }
 ];
 
 export const projects = [
