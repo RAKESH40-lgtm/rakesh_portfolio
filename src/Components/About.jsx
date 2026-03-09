@@ -14,7 +14,7 @@ const About = () => {
                         </p>
 
                         <p className="text-lg text-gray-300 leading-relaxed">
-                            With 2+ years of experience as a Frontend Developer at VarchAi, I specialize in React.js (Hooks), Redux, JavaScript (ES6+), REST API integration, and performance optimization. I work on enterprise-grade applications where performance, maintainability, and scalable UI architecture are critical.
+                           With nearly 3 years of experience as a Frontend Developer at VarchAi, I specialize in React.js (Hooks), Redux, JavaScript (ES6+), REST API integration, and performance optimization. I work on enterprise-grade applications where performance, maintainability, and scalable UI architecture are critical.
                         </p>
 
                         <p className="text-lg text-gray-300 leading-relaxed">
